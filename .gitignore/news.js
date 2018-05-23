@@ -51,7 +51,6 @@ function recent_post_style(){
     s += "#recent_post{";
     s += "margin:auto;";
     s += "width:96%;";
-    s += "background:$(newstitle3.color);";
     s += "margin-left: 24px;";
     s += "}";
     s += "</style>";
